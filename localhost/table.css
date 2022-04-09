@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(60, 145, 241);
+}
+
+table {
+    background: rgb(181, 130, 116);
+    width: 100%;
+    table-layout: fixed;
+    font-size: large;
+    text-align: center;
+}
+
+.content-table {
+    height: 150px;
+    overflow: auto;
+}
+
+td {
+    border-bottom: 1px solid rgb(200, 200, 200);
+    width: 150px;
+    padding: 12px;
+}
+
+thead {
+    background: rgb(240, 201, 190);
+    border: 0;
+}
+
+th {
+}
